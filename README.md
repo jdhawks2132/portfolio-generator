@@ -20,17 +20,17 @@
 
 This is a command-line application that dynamically generates a portfolio page from the user's input using the Inquirer package. The application will be invoked with the following command:
 
-\`\`\`
+```
 node app
-\`\`\`
+```
 
 ## Installing Dependencies
 
 To install the necessary dependencies, run the following command:
 
-\`\`\`
+```
 npm install
-\`\`\`
+```
 
 ## Usage
 
@@ -48,9 +48,9 @@ If you would like to contribute to this project, please contact me via email.
 
 To run tests, run the following command:
 
-\`\`\`
+```
 npm test
-\`\`\`
+```
 
 ## Questions
 
